@@ -29,6 +29,9 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
+i18n:
+  footer: This page is hosted on GitHub [sachinsenal0x64/uptime]($REPO).
+
 workflowSchedule:
   graphs: "0 */6 * * *"
   responseTime: "10 */6 * * *"
