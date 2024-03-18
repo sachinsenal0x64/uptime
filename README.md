@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://tidal.401658.xyz): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
