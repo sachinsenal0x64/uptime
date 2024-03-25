@@ -4,19 +4,19 @@
     "url": "https://tidal.401658.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/tidal.401658.xyz.ico",
     "slug": "hi-fi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 194,
-    "timeWeek": 436,
-    "timeMonth": 436,
-    "timeYear": 436,
+    "status": "up",
+    "uptime": "98.30%",
+    "uptimeDay": "88.44%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.30%",
+    "time": 417,
+    "timeDay": 133,
+    "timeWeek": 417,
+    "timeMonth": 417,
+    "timeYear": 417,
     "dailyMinutesDown": {
-      "2024-03-25": 0
+      "2024-03-25": 166
     }
   }
 ]
