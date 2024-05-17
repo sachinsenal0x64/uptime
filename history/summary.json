@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tidal.401658.xyz.ico",
     "slug": "hi-fi",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 209,
-    "timeDay": 138,
-    "timeWeek": 87,
+    "uptimeYear": "99.81%",
+    "time": 208,
+    "timeDay": 106,
+    "timeWeek": 93,
     "timeMonth": 85,
-    "timeYear": 209,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2024-03-25": 166
     }
